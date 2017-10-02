@@ -6,14 +6,38 @@ app-root{
 
 #text-header{
   background-color: #283e4a;
+  color: #DBEDF6;
+  font-size:20px;
+  font-family: sans-serif;
 }
 
+.text-header{
+  color: white;
+  font-size:20px;
+  font-family: sans-serif;
+}
+
+div.container-fluid{
+  background-color: #0084BF;
+}
+
+div.panel-body{
+  background-color: #4CA8D2;
+}
 body{
   background-color: #283e4a;
 }
 
+
+em{
+  color: #DBEDF6;
+}
 .text-header{
   color: #99CDE5;
+}
+
+.navbar-brand{
+  color: #DBEDF6;
 }
 
 
