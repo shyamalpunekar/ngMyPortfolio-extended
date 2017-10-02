@@ -11,6 +11,8 @@ app-root{
   font-family: sans-serif;
 }
 
+
+/* #283e4a */
 .text-header{
   color: white;
   font-size:20px;
@@ -18,7 +20,7 @@ app-root{
 }
 
 div.container-fluid{
-  background-color: #0084BF;
+  background-color: #283e4a;
 }
 
 div.panel-body{

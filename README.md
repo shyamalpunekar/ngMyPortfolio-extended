@@ -1,4 +1,51 @@
-# NgMyPortfolioExtended
+# NgMyPortfolio Extended
+
+#### This Portfolio webpage will provide my skills, knowledge,experience , 09.29.2017
+
+#### By Shyamal Punekar
+
+## Description
+
+_Web application gives an information about my educational background, skills, technologies, current education, future Goals.._
+
+## Setup/Installation Requirements
+* Clone the repo
+* navigate to  project root folder
+* ng serve to launch an application
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+
+# Screenshots
+ _Upcoming Events those I'm attending:_
+## Women Talking Tech Series - PDX [Oct-03]
+![Guest Speaker: Perry Eising](images/PDXWIT1.png)
+
+## Women Talking Tech Series - PDX [Oct-10]
+![Goal: To pursue tech careers](images/PDXWIT2.png)
+
+
+# Setup
+https://github.com/shyamalpunekar/ngMyPortfolio-extended
+
+# Support and contact details
+
+  Please feel free to contact shyamal.punekar@gmail.com if you have any questions, issues, concerns, comments or suggestions.
+
+# Known Bugs
+
+_There are no known bugs at this time!_
+
+## Technologies Used
+
+* JavaScript/TypeScript
+* atom
+* html/css
+* AngularJS
+* Firebase
+
+## Future Implementation
+
+* Enhance web information on Firebase.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
