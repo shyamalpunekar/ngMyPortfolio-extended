@@ -1,1 +1,82 @@
-/* You can add global styles to this file, and also import other style files */
+app-root{
+  background-color: #99CDE5;
+  color: ##283E4A;
+  font-family: "Grandesign", Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+#text-header{
+  background-color: #283e4a;
+}
+
+body{
+  background-color: #283e4a;
+}
+
+.text-header{
+  color: #99CDE5;
+}
+
+
+img{
+  border-radius: 5px;
+  margin-left: 100px;
+  margin-top: 50px;
+
+}
+div.well{
+  background-color: #99CDE5;
+}
+html{
+  background-color: #99CDE5;
+  color: #283e4a;
+}
+
+@keyframes example {
+    0%   {background-color: red;}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
+}
+
+blockquote{
+  coolor: #50058E;
+}
+.section-about{
+ margin-left: 500px;
+
+}
+
+.icon-list-one{
+  margin-left: 450px;
+}
+
+
+footer{
+  margin-right: 30px;
+}
+
+#icon-shift{
+  margin-right: -40px;
+}
+
+@media screen and (max-width: 768px) and (min-width: 600px) {
+	body {
+		background-color: black;
+		color: green;
+    font-family: sans-serif;
+	}
+}
+
+@media screen and (max-width:480px) {
+	body {
+		background-color: teal;
+	}
+	.centerTest {
+		width: 100%;
+		text-align: center;
+	}
+}
+
+.about:hover{
+  color: #ff4da6;
+}

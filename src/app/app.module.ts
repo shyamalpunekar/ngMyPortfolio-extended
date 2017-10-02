@@ -9,6 +9,7 @@ import { routing } from './app.routing';
 import { AboutComponent } from './about/about.component';
 import { ProjectplaceComponent } from './projectplace/projectplace.component';
 import { ProjectDetailComponent } from './project-detail/project-detail.component';
+import { FutureGoalsComponent } from './future-goals/future-goals.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { ProjectDetailComponent } from './project-detail/project-detail.componen
     WelcomeComponent,
     AboutComponent,
     ProjectplaceComponent,
-    ProjectDetailComponent
+    ProjectDetailComponent,
+    FutureGoalsComponent
   ],
   imports: [
     BrowserModule,
