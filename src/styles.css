@@ -11,8 +11,12 @@ app-root{
   font-family: sans-serif;
 }
 
+welcome-page{
+  color: #DBEDF6;
+  font-family: "Grandesign", Helvetica Neue, Helvetica, Arial, sans-serif;
+  margin-top: 200px;
 
-/* #283e4a */
+}
 .text-header{
   color: white;
   font-size:20px;
