@@ -23,6 +23,9 @@ welcome-page{
   font-family: sans-serif;
 }
 
+.img-icon{
+  display: inline-block;
+}
 div.container-fluid{
   background-color: #283e4a;
 }
